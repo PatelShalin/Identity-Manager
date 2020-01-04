@@ -1,0 +1,28 @@
+# Identity-Manager
+A MERN Full Stack application with CRUD functionality, user logins/logouts, and use of Hooks and Functional React Components.
+
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+```
+"node": "8.8.1",
+"bcryptjs": "^2.4.3",
+"config": "^3.2.4",
+"cors": "^2.8.5",
+"express": "^4.17.1",
+"express-validator": "^6.3.1",
+"jsonwebtoken": "^8.5.1",
+"mongoose": "^5.8.3"
+"concurrently": "^5.0.2",
+"nodemon": "^2.0.2"
+```
+
+Run "npm i ..." to install all of the above dependencies (expect Node.js)
+
+## Run locally
+
+```
+Run the command "npm run dev" which will provoke 'concurrently' and run the front-end and back-end simultaneously
+```
