@@ -1,5 +1,5 @@
 # Identity-Manager
-A MERN Full Stack application with CRUD functionality, user logins/logouts, and use of Hooks and Functional React Components.
+A Full Stack MERN application with CRUD functionality, use of React hooks, context and JWT authentication.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
