@@ -17,10 +17,14 @@ These instructions will get you a copy of the project up and running on your loc
 "mongoose": "^5.8.3"
 "concurrently": "^5.0.2",
 "nodemon": "^2.0.2"
+"react": "^16.12.0",
+"react-dom": "^16.12.0",
+"react-router-dom": "^5.1.2",
+"react-scripts": "^3.3.0",
+"react-transition-group": "^4.3.0"
 ```
 
 Run "npm i ..." to install all of the above dependencies (expect Node.js)
-Also install react-scripts
 
 ## Run locally
 
